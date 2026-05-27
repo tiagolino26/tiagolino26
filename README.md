@@ -58,6 +58,18 @@
 
 ---
 
+> _💻 1. Hard Skills (habilidades técnicas)
+
+> _Linguagens: JavaScript, Python, Java
+> _Front-end: HTML, CSS, React
+> _Back-end: Node.js, APIs, bancos de dados (tipo Neon/Postgres)
+> _Versionamento: Git e GitHub
+> _Lógica de programação
+
+> _CRUD com Node.js e banco de dados  
+
+---
+
 ## 🚀 Filosofia
 
 > _"Programar não é apenas resolver problemas.
