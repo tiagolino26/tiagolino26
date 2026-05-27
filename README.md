@@ -64,7 +64,7 @@ Responsive UI built with React and Styled Components
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=tiagolino26&theme=github-dark"/>
+  <img src="https://streak-stats.demolab.com/?user=tiagolino26&theme=chartreuse-dark"/>
 </p>
 
 ---
