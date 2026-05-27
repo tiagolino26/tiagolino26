@@ -1,82 +1,94 @@
-<h1 align="center">👋 Olá, eu sou o Tiago Lino</h1>
-
+<h1 align="center">👋 Hi, I'm Tiago Lino</h1>
+<h3 align="center">💻 FullStack Developer in Progress</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=25&center=true&vCenter=true&width=500&lines=Desenvolvedor+FullStack;Apaixonado+por+Tecnologia;Sempre+Aprendendo+Novas+Skills" />
-</p>
-
-
-
-### 🚀 Sobre mim
-
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
-📍 São Paulo - SP
-💻 Focado em me tornar um Desenvolvedor FullStack
-📚 Sempre aprendendo e evoluindo no mundo da programação
-
----
-
-## 🌐 Onde me encontrar
-
-<p align="left">
-  <a href="https://github.com/tiagolino26">
-    <img src="https://img.shields.io/badge/GitHub-tiagolino26?style=for-the-badge&logo=github" />
-  </a>  
+  <img src="https://readme-typing-svg.herokuapp.com/?color=58A6FF&size=28&center=true&vCenter=true&width=600&lines=FullStack+Developer;Passionate+about+Technology;Building+Real+Projects;Always+Learning" />
 </p>
 
 ---
 
-## 🧠 O que eu faço!
+## 🧠 About Me
 
--   🏗️ Desenvolvimento de sistemas web com  html, css, javascript, react, e node.js
+🎓 I’m currently studying **Systems Analysis and Development**  
+💻 Focused on becoming a **FullStack Developer**  
+🚀 Building real-world projects and improving every day  
 
 ---
 
-## 🛠️ Tech Stack
+## 💻 Tech Stack
 
-### Frontend
+### 🎨 Frontend
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Styled Components](https://img.shields.io/badge/Styled--Components-db7093?style=for-the-badge&logo=styled-components&logoColor=white)
 
-![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Styled Components](https://img.shields.io/badge/Styled--Components-DB7093?style=for-the-badge&logo=styled-components)
+---
 
-### Backend
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)
+### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![REST API](https://img.shields.io/badge/API-REST-green?style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Neon](https://img.shields.io/badge/Neon-00E699?style=for-the-badge&logo=neon&logoColor=black)
 
-### DevOps & Tools
+---
 
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
+### 🛠️ Tools & DevOps
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
-> _💻 1. Hard Skills (habilidades técnicas)
+## 🚀 Featured Projects
 
-> _Linguagens: JavaScript, Python, Java
-> _Front-end: HTML, CSS, React
-> _Back-end: Node.js, APIs, bancos de dados (tipo Neon/Postgres)
-> _Versionamento: Git e GitHub
-> _Lógica de programação
-
-> _CRUD com Node.js e banco de dados  
+### 🎬 Netflix Clone (FullStack)
+Full application with **React, Node.js and PostgreSQL**  
+👉 (Add your deploy link here)
 
 ---
 
-## 🚀 Filosofia
-
-> _"Programar não é apenas resolver problemas.
-> Trata-se de construir soluções que escalem, durem e gerem valor real."_
-
-> "Os desafios fazem parte do caminho. Quem não desiste, chega lá."
+### 🛒 Order System API
+REST API with CRUD operations connected to database  
+👉 (Add your project link here)
 
 ---
 
+### 📱 Modern Landing Page
+Responsive UI built with React and Styled Components  
+👉 (Add your project link here)
 
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=tiagolino26&show_icons=true&theme=github_dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagolino26&layout=compact&theme=github_dark"/>
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=tiagolino26&theme=github-dark"/>
+</p>
+
+---
+
+## 🌐 Connect with me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/tiagolino26  
+- 📧 Email: tiagolino2026@gmail.com  
+
+---
+
+## 💡 Philosophy
+
+> "Consistency turns effort into results."
+
+---
+
+## 🎯 Goal
+
+Looking for my first opportunity as a **FullStack Developer**, where I can contribute, learn, and grow with real-world projects.
