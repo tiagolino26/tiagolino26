@@ -64,13 +64,6 @@ Responsive UI built with React and Styled Components
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=tiagolino26&show_icons=true&theme=github_dark"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagolino26&layout=compact&theme=github_dark"/>
-</p>
-
-<br/>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com/?user=tiagolino26&theme=github-dark"/>
 </p>
 
