@@ -5,10 +5,8 @@
 
 ### 🧠 Sobre mim
 
-Me chamo **Tiago Lino**, tenho 22 anos e sou natural de **São Paulo, SP**.  
-Sou formado em **Análise e Desenvolvimento de Sistemas** e apaixonado por tecnologia.  
-Compartilho meu conhecimento através do meu canal no YouTube **"Tiago Lino"**,  
-onde ensino a criar aplicações web, e também no Instagram **"tiagoddev"**.
+Me chamo **Tiago Lino**, tenho 38 anos e sou natural de **São Paulo, SP**.  
+estou cursando **Análise e Desenvolvimento de Sistemas** e apaixonado por tecnologia.  
 
 ---
 
