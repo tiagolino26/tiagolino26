@@ -18,26 +18,26 @@
 ## 💻 Tech Stack
 
 ### 🎨 Frontend
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Styled Components](https://img.shields.io/badge/Styled--Components-db7093?style=for-the-badge&logo=styled-components&logoColor=white)
 
+<p align="letf">
+  <img src="https://skillicons.dev/icons?i=js,ts,react" />
+</p>
 ---
 
 ### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![REST API](https://img.shields.io/badge/API-REST-green?style=for-the-badge)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Neon](https://img.shields.io/badge/Neon-00E699?style=for-the-badge&logo=neon&logoColor=black)
+
+<p align="letf">
+  <img src="https://skillicons.dev/icons?i=nodejs,postgres" />
+  <img src="https://img.shields.io/badge/NeonDB-00E699?style=for-the-badge&logo=postgresql&logoColor=black"/>
+</p>
 
 ---
 
 ### 🛠️ Tools & DevOps
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+<p align="letf">
+  <img src="https://skillicons.dev/icons?i=git,vercel,aws,figma" />
+</p>
 
 ---
 
