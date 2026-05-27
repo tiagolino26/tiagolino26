@@ -1,4 +1,4 @@
-# 👋, Olá, eu sou o Tiago Lino
+<h1 align="center">👋 Olá, eu sou o Tiago Lino</h1>
 
 
 <p align="center">
@@ -64,7 +64,7 @@
 > Trata-se de construir soluções que escalem, durem e gerem valor real."_
 
 > "Os desafios fazem parte do caminho. Quem não desiste, chega lá."
-
+> 
 ---
 
 
