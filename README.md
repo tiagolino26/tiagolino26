@@ -76,7 +76,7 @@
 > Trata-se de construir soluções que escalem, durem e gerem valor real."_
 
 > "Os desafios fazem parte do caminho. Quem não desiste, chega lá."
-> 
+
 ---
 
 
