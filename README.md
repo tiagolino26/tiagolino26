@@ -19,14 +19,14 @@
 
 ### 🎨 Frontend
 
-<p align="letf">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=js,ts,react" />
 </p>
 ---
 
 ### ⚙️ Backend
 
-<p align="letf">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,postgres" />
   <img src="https://img.shields.io/badge/NeonDB-00E699?style=for-the-badge&logo=postgresql&logoColor=black"/>
 </p>
@@ -35,7 +35,7 @@
 
 ### 🛠️ Tools & DevOps
 
-<p align="letf">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=git,vercel,aws,figma" />
 </p>
 
